@@ -1,10 +1,16 @@
-h1 {
+h1, h2 {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
     text-align: center;
 }
 
-.recipe {
-    color: rgb(46, 46, 46);
+a {
+    color: rgb(46, 46, 46);}
+
+.recipe,
+.misc-link {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 20px;
 }
